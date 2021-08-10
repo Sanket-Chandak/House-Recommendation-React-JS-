@@ -1,0 +1,7 @@
+.data-grid-container .cell {
+    border: 1px solid black;
+    width: 150px;
+    height: 35px;
+    background: rgb(179, 179, 235);
+    font-size: 1.15rem;
+  }
